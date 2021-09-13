@@ -2,7 +2,7 @@
 
 
 <EditForm Model="@ViewModel.ToDoItem" OnValidSubmit="@SaveTodoItem">
-    <div class="col-4">
+    <div class="col-4" style="max-width:350px">
         <div class="form-group">
             <label for="title">Title</label>
             <InputText class="form-control" id="title" @bind-Value=@ViewModel.ToDoItem.Title />
