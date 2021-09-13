@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorMVVMToDo", "BlazorMVVMToDo\BlazorMVVMToDo.csproj", "{0EC3E652-D99A-4842-9604-E1C16BB6C46C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC3E652-D99A-4842-9604-E1C16BB6C46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC3E652-D99A-4842-9604-E1C16BB6C46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC3E652-D99A-4842-9604-E1C16BB6C46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC3E652-D99A-4842-9604-E1C16BB6C46C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BAC70FF-5365-4D99-84C1-4C4EFDD046AF}
+	EndGlobalSection
+EndGlobal
